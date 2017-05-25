@@ -1,0 +1,26 @@
+{
+  "name": "react-native-row-component",
+  "version": "1.0.0",
+  "description": "A row component for React Native that allows design your view like bootstrap",
+  "main": "Row.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cheja/react-native-row-component.git"
+  },
+  "keywords": [
+    "Row",
+    "Boostrap",
+    "Component",
+    "React",
+    "Native"
+  ],
+  "author": "Cheja",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cheja/react-native-row-component/issues"
+  },
+  "homepage": "https://github.com/cheja/react-native-row-component#readme"
+}
