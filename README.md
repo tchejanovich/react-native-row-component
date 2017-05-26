@@ -1,8 +1,13 @@
 React-native-row-component
 
 Props:
+
+| colSize   | the default is 12 (the size of the Row), in case of overflow, it will automatically send the column to the next row.     |
+| offset     | the default is 0       |
+| pullRight     | the default is FALSE.       |
+
  - colSize:
- 	the default is 12 (the size of the Row), in case you overflow, it will automatically go to the next row.
+ 	the default is 12 (the size of the Row), in case of overflow, it will automatically send the column to the next row.
 - pullRight:
 	the default is FALSE.
 - offset:
