@@ -25,4 +25,5 @@ Example:
 ```
 
 Result:
+![Result](examples/example1.png)
 	
