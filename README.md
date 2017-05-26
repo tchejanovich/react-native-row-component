@@ -11,10 +11,18 @@ Props:
 Example:
 
 ```
+	import Row from 'react-native-row-component';
+	... 
 	<Row>
-		<View colSize={5} style={{ height: 50, backgroundColor: 'red' }} />
-		<View colSize={2} pullRight style={{ height: 50, backgroundColor: 'blue' }} />
-		<View colSize={2} offset={7} style={{ height: 50, backgroundColor: 'green' }} />
+		<View colSize={5} style={{ height: 100, backgroundColor: 'red' }} />
+		<View colSize={2} pullRight style={{ height: 100, backgroundColor: 'blue' }} />
+		<View colSize={2} offset={7} style={{ height: 100, backgroundColor: 'green' }} />
+	</Row>
+	<Row>
+		<View colSize={10} style={{ height: 100, backgroundColor: 'black' }} />
 	</Row>
 
 ```
+
+Result:
+	
