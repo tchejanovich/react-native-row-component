@@ -2,7 +2,7 @@
 
 **Installation:**
 
-> npm install react-native-row-component
+> npm install --save react-native-row-component
 
 **Props:**
 
