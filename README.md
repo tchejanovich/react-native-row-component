@@ -31,4 +31,17 @@
 
 **Result:**
 ![Result](examples/example1.png)
+
+**The colSize doesn´t need to be an integer. For example, if you need to divide a Row into five columns, you could do:**
+
+```
+	<Row>
+		<View colSize={2.4} style={{ height: 100, backgroundColor: 'red' }} />
+		<View colSize={2.4} style={{ height: 100, backgroundColor: 'blue' }} />
+		<View colSize={2.4} style={{ height: 100, backgroundColor: 'green' }} />
+		<View colSize={2.4} style={{ height: 100, backgroundColor: 'black' }} />
+		<View colSize={2.4} style={{ height: 100, backgroundColor: 'orange' }} />
+	</Row>
+
+```
 	
