@@ -1,6 +1,10 @@
 # react-native-row-component
 
-Props:
+**Installation:**
+
+> npm install react-native-row-component
+
+**Props:**
 
 | Prop | Functionality |
 | :---         |     :---:      | 
@@ -8,7 +12,7 @@ Props:
 | offset     | the default is 0       |
 | pullRight     | the default is FALSE.       |
 
-Example:
+**Example:**
 
 ```
 	import Row from 'react-native-row-component';
