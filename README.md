@@ -28,6 +28,7 @@
 
 ```
 
-Result:
+
+**Result:**
 ![Result](examples/example1.png)
 	
