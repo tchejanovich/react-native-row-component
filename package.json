@@ -18,7 +18,7 @@
     "Native"
   ],
   "author": "Cheja",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/cheja/react-native-row-component/issues"
   },
